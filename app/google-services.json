@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900679780830",
+    "firebase_url": "https://angular-5bae4.firebaseio.com",
+    "project_id": "angular-5bae4",
+    "storage_bucket": "angular-5bae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900679780830:android:0d7951731925ed9576754f",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900679780830-4ddj309end0c6ndgtklva87av50kaihc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_application",
+            "certificate_hash": "29b2a4c91d67c47f603a83d0768ddfa11726e5cb"
+          }
+        },
+        {
+          "client_id": "900679780830-s61idoi34t0khukv1cpubfjr0tafoffd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0CYQgQW9OxiW9wD8k3niK9yF6UlDUks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900679780830-s61idoi34t0khukv1cpubfjr0tafoffd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
